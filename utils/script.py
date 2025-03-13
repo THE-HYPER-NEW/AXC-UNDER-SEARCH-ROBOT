@@ -24,9 +24,9 @@ Get connected channels list with - /connections</b>"""
     ABOUT = """Developed By @THEHYPER_ACX 
 
 ✯ Mʏ Nᴀᴍᴇ:  {}
-✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/THEHYPER_ACX>THEHYPER</a>
+✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/THEHYPER_ACX'>THE HYPER</a>
 ✯ Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org'>Pʏᴛʜᴏɴ3</a>
-✯ DᴀᴛᴀBᴀsᴇ: <a href='https://cloud.mongodb.com/'>MᴏɴɢᴏDB</a>
+✯ Nᴇᴛᴡᴏʀᴋ: <a href='https://t.me/ACX_NETWORK'>ACX Nᴇᴛᴡᴏʀᴋ</a>
 ✯ Bᴏᴛ Sᴇʀᴠᴇʀ: : <a href='https://heroku.com'>Heroku</a>"""
 
     STATS = """My Status 💫
