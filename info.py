@@ -1,8 +1,8 @@
-API_ID       = 
-API_HASH     = ""
-BOT_TOKEN    = ""
-SESSION      = ""
-DATABASE_URI = ""
-LOG_CHANNEL  = -1001884373226
-ADMIN        = 1350642629
-CHANNEL      = "@GreyMatter_Bots"
+API_ID       = 21134445
+API_HASH     = "231c18ea7273824491d6bf05425ab74e"
+BOT_TOKEN    = "7616342348:AAHbvsa7AcGfo2AngERDGMfK0-ngZYx1Q_o"
+SESSION      = "BQFCfG0Apqt-pcQ9C-Y86CWQqTBxm_YFyWa5HUyHiUeg2ycwmAyGu4svweb4ZlRadqnZboZpSj3W77LVlcQciPrk1F15FCfS8Wei-ueufaSaW8OhIYwiwJO_dc4R0SJ2kjbbMJkC0u3mtpMVU4a-miUyhjyWJGGPIFmimNQJJWkThXbKa7HUCDI2i8XZ2LZunPTEiif3HQZ-ABw69dEHJHecETkzGptxLuEmo4r9jy-C6sNXa5YypQeJKENdUQXt4Mr4VSzCiQFMlEVhNW515_F743MC2TbZMNKaqM4UWvCuQZ8S99pjBDBoGN8qrQJ8Fr2WLeLSUhPlGpWRAONthQnZfrgnEgAAAAHOuXz_AA"
+DATABASE_URI = "mongodb+srv://bornhyper1:Bornhyper5911@cluster0.gmvpm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+LOG_CHANNEL  = -1002166830074
+ADMIN        = 7763229951
+CHANNEL      = "@ACX_NETWORK"
