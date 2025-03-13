@@ -4,18 +4,37 @@ class script(object):
 I am **Find Post Bot**.I am best Channel Link Search Bot! 
 I Will filter your channel posts automatically and send it in your group chat when Someone search it."""
 
-    HELP = """To Use me In A Group
+    HELP = """💢 ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴍᴇ ɪɴ ᴀ ɢʀᴏᴜᴘ
 
-- Add me in your group & channel with all permissions. 
-- Send /verify in group & wait for It To Accept Or Directly Contact To Owner After Request @GreyMatter_Bots.
-- After verification send /connect YourChannelID
-- Example : /connect -100xxxxxxxxxx
-- Done ✅. <b><I>Enjoy 💜❤</I></b> )
+❂ ᴀᴅᴅ ᴍᴇ ᴀꜱ ᴀᴅᴍɪɴ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴄʜᴀɴɴᴇʟ.⚠️ ᴀʟʟ ᴛʜᴇꜱᴇ ᴄᴏᴍᴍᴀɴᴅꜱ ᴡɪʟʟ ᴡᴏʀᴋ ᴏɴʟʏ ɪɴ ɢʀᴏᴜᴘꜱ 👇
 
-Remove a Channel with - /disconnect-100xxxxxxxxxxx
-this will help you to remove a indexed channel from your group.
+❂ ᴛʏᴘᴇ /verify ɪɴ ɢʀᴏᴜᴘ.
 
-Get connected channels list with - /connections"""
+❂ sᴇɴᴅ /ᴠᴇʀɪғʏ ɪɴ ɢʀᴏᴜᴘ & ᴡᴀɪᴛ ғᴏʀ ɪᴛ ᴛᴏ ᴀᴄᴄᴇᴘᴛ ᴏʀ ᴅɪʀᴇᴄᴛʟʏ ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴏᴡɴᴇʀ ᴀғᴛᴇʀ ʀᴇᴏ‌ᴜᴇsᴛ @ACX_OWNER_DM_ROBOT
+
+❂ ᴀꜰᴛᴇʀ ᴠᴇʀɪꜰɪᴄᴀᴛɪᴏɴ ꜱᴇɴᴅ /connect ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ ɪᴅ
+⤨ ᴇxᴀᴍᴘʟᴇ -
+
+/connect -100xxxxxxxxxxx
+
+❂ ʀᴇᴍᴏᴠᴇ ᴀ ᴄʜᴀɴɴᴇʟ ᴡɪᴛʜ
+/disconnect -100xxxxxxxxxxx
+ᴛʜɪꜱ ᴡɪʟʟ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ʀᴇᴍᴏᴠᴇ ᴀ ɪɴᴅᴇxᴇᴅ ᴄʜᴀɴɴᴇʟ ꜰʀᴏᴍ ʏᴏᴜʀ ɢʀᴏᴜᴘ.
+
+❂ ʀᴇꜱᴇᴛ ᴛʜᴇ ɢʀᴏᴜᴘ ꜱᴇᴛᴛɪɴɢꜱ ᴡɪᴛʜ /reset_grp.
+ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ ᴡɪʟʟ ʀᴇᴍᴏᴠᴇ ᴀʟʟ ᴘʀᴇᴠɪᴏᴜꜱ ꜱᴇᴛᴛɪɴɢꜱ ꜰʀᴏᴍ ᴛʜᴇ ɢʀᴏᴜᴘ.
+
+❂ ꜰᴏʀ ᴀᴅᴅɪɴɢ ꜰᴏʀᴄᴇ ꜱᴜʙ ɪɴ ɢʀᴏᴜᴘ ᴛʏᴘᴇ /fsub ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ ɪᴅ
+⤨ ᴇxᴀᴍᴘʟᴇ -
+
+/fsub -100xxxxxxxxxx
+
+❂ ꜰᴏʀ ʀᴇᴍᴏᴠɪɴɢ ꜰᴏʀᴄᴇ ꜱᴜʙ ɪɴ ɢʀᴏᴜᴘ ᴛʏᴘᴇ /nofsub
+
+❂ ɢᴇᴛ ᴄᴏɴɴᴇᴄᴛᴇᴅ ᴄʜᴀɴɴᴇʟꜱ ʟɪꜱᴛ ᴡɪᴛʜ - /connections
+
+
+⏣►📃 𝗜ғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴋɪɴᴅ ᴏғ ɪ𝘀𝘀ᴜᴇ, ᴘʀᴏʙʟᴇᴍ ᴏʀ ɴᴇᴇᴅ 𝘀ᴜᴘᴘᴏʀᴛ ᴡʜɪʟᴇ ᴜ𝘀ɪɴɢ ᴛʜɪ𝘀 ʙᴏᴛ, ᴛʜᴇɴ ʏᴏᴜ ᴄᴀɴ ᴍᴇ𝘀𝘀ᴀɢᴇ ᴏᴜʀ 𝘀ᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ᴀɴᴅ ɪᴛ ᴡɪʟʟ ʙᴇ 𝘀ᴏʟᴠᴇᴅ ғʀᴏᴍ ᴛʜᴇʀᴇ.➠ @ACX_DISCUSSION"""
 
     ABOUT = """Developed By @CyniteBackup
 
